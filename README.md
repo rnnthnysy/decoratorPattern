@@ -71,3 +71,4 @@ benefits offered by savings account + "With Insurance";
 
 ## UML Class Diagram
 
+![decoratorPattern](https://github.com/rnnthnysy/decoratorPattern/assets/142371703/a4b1d95e-2319-4ebc-9542-4de535067ab1)
